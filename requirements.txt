@@ -1,4 +1,4 @@
-###rasa_nlu
+###rasa_nl
 gevent==1.2.1
 Klein==17.2.0
 boto3==1.4.4
